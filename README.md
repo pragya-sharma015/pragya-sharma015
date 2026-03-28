@@ -45,7 +45,7 @@
 ---
 ## 🌟 Featured Projects
 
-- 🔹 **QuizSphere** – Interactive quiz web application built using .NET with dynamic question handling  
+<!--- 🔹 **QuizSphere** – Interactive quiz web application built using .NET with dynamic question handling  -->
 - 🔹 **Toolkit Web App** – Multi-functional web app providing useful tools to improve productivity and user experience  
 
 *(More projects coming soon...)*  
