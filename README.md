@@ -48,9 +48,22 @@
 <!--- 🔹 **QuizSphere** – Interactive quiz web application built using .NET with dynamic question handling  -->
 - 🔹 **Toolkit Web App** – Multi-functional web app providing useful tools to improve productivity and user experience  
 
-*(More projects coming soon...)*  
+🚧 More exciting projects coming soon...
 
 ---
+## 💻 Coding Profiles & Achievements
+
+🔹 **LeetCode**  
+- Solved 70+ problems  
+- Focus: DSA, SQL  
+🔗 https://leetcode.com/u/pragya_sharma015/
+
+🔹 **HackerRank**  
+- ⭐ 5-Star in Java  
+- Completed: 30 Days of Code, 10 Days of JavaScript  
+- ⭐ 2-Star in SQL  
+- Certifications: Java (Basic), JavaScript (Basic)  
+🔗 https://www.hackerrank.com/profile/pragya_sharma015
 
 ## ✍️ Dev Quote
 
